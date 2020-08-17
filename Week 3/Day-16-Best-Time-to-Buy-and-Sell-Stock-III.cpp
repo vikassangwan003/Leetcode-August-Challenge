@@ -56,3 +56,4 @@ public:
         return profit[n-1]; 
     }
 };
+
